@@ -8,7 +8,7 @@ class Board
   end 
   
  def reset 
-   all.clear 
+   @@cells.clear 
  end 
   
 end 
