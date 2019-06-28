@@ -8,7 +8,7 @@ class Board
   end 
   
  def reset 
-   self.all.clear 
+   all.clear 
  end 
   
 end 
