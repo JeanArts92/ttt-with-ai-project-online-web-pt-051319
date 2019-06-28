@@ -3,6 +3,12 @@ class Board
   
   @@cells = [] 
   
- 
+  def self.all 
+    @@cells
+  end 
+  
+ def reset 
+   self.all.clear 
+ end 
   
 end 
