@@ -3,9 +3,6 @@ class Board
   
   @@cells = [] 
   
-  def initialize
-    
-    
-  end 
+ 
   
 end 
